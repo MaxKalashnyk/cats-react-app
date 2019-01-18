@@ -1,14 +1,14 @@
 {
-  "main.css": "/cats-react-app/static/css/main.990051b4.chunk.css",
-  "main.js": "/cats-react-app/static/js/main.713e7a1a.chunk.js",
-  "main.js.map": "/cats-react-app/static/js/main.713e7a1a.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/cats-react-app/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/cats-react-app/static/js/1.fa92c112.chunk.js.map",
+  "main.css": "/cats-react-app/static/css/main.e5dc5ad9.chunk.css",
+  "main.js": "/cats-react-app/static/js/main.a6c4248d.chunk.js",
+  "main.js.map": "/cats-react-app/static/js/main.a6c4248d.chunk.js.map",
+  "static/js/1.61b63230.chunk.js": "/cats-react-app/static/js/1.61b63230.chunk.js",
+  "static/js/1.61b63230.chunk.js.map": "/cats-react-app/static/js/1.61b63230.chunk.js.map",
   "runtime~main.js": "/cats-react-app/static/js/runtime~main.7187bfd9.js",
   "runtime~main.js.map": "/cats-react-app/static/js/runtime~main.7187bfd9.js.map",
-  "static/media/logo.svg": "/cats-react-app/static/media/logo.5d5d9eef.svg",
-  "static/css/main.990051b4.chunk.css.map": "/cats-react-app/static/css/main.990051b4.chunk.css.map",
+  "static/media/dog-paw.svg": "/cats-react-app/static/media/dog-paw.30199f6b.svg",
+  "static/css/main.e5dc5ad9.chunk.css.map": "/cats-react-app/static/css/main.e5dc5ad9.chunk.css.map",
   "index.html": "/cats-react-app/index.html",
-  "precache-manifest.128f05af5821801d3815928726e93d54.js": "/cats-react-app/precache-manifest.128f05af5821801d3815928726e93d54.js",
+  "precache-manifest.dadcda1aea280b9865c3311e06b55edb.js": "/cats-react-app/precache-manifest.dadcda1aea280b9865c3311e06b55edb.js",
   "service-worker.js": "/cats-react-app/service-worker.js"
 }
