@@ -1,14 +1,14 @@
 {
-  "main.css": "/cats-react-app/static/css/main.e5dc5ad9.chunk.css",
-  "main.js": "/cats-react-app/static/js/main.a6c4248d.chunk.js",
-  "main.js.map": "/cats-react-app/static/js/main.a6c4248d.chunk.js.map",
+  "main.css": "/cats-react-app/static/css/main.48a41227.chunk.css",
+  "main.js": "/cats-react-app/static/js/main.d1cb9602.chunk.js",
+  "main.js.map": "/cats-react-app/static/js/main.d1cb9602.chunk.js.map",
   "static/js/1.61b63230.chunk.js": "/cats-react-app/static/js/1.61b63230.chunk.js",
   "static/js/1.61b63230.chunk.js.map": "/cats-react-app/static/js/1.61b63230.chunk.js.map",
   "runtime~main.js": "/cats-react-app/static/js/runtime~main.7187bfd9.js",
   "runtime~main.js.map": "/cats-react-app/static/js/runtime~main.7187bfd9.js.map",
   "static/media/dog-paw.svg": "/cats-react-app/static/media/dog-paw.30199f6b.svg",
-  "static/css/main.e5dc5ad9.chunk.css.map": "/cats-react-app/static/css/main.e5dc5ad9.chunk.css.map",
+  "static/css/main.48a41227.chunk.css.map": "/cats-react-app/static/css/main.48a41227.chunk.css.map",
   "index.html": "/cats-react-app/index.html",
-  "precache-manifest.dadcda1aea280b9865c3311e06b55edb.js": "/cats-react-app/precache-manifest.dadcda1aea280b9865c3311e06b55edb.js",
+  "precache-manifest.b98d444506a73d6edd95f230fdc3b3e3.js": "/cats-react-app/precache-manifest.b98d444506a73d6edd95f230fdc3b3e3.js",
   "service-worker.js": "/cats-react-app/service-worker.js"
 }
