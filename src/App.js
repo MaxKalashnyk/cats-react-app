@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import SidebarItem from './SidebarItem/SidebarItem';
 import {catsData} from './catsData';
-import {logo} from './dog-paw.svg';
+import logo from './dog-paw.svg';
 import './App.css';
 
 class App extends Component {

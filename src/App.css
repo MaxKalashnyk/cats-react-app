@@ -14,9 +14,6 @@ html {
 }
 
 body {
-  font-family: 'Rubik';
-  font-weight: normal;
-  font-style: normal;
   color: #000;
   display: flex;
 }
