@@ -1,4 +1,4 @@
-# Cats house - my the first React application
+# Cats house - my first React application
 
 [Demo](https://kalash14.github.io/cats-react-app/)  |  [Code](https://github.com/kalash14/cats-react-app/tree/master/src) 
 
